@@ -7,7 +7,7 @@
 *I build with AI the way a factory runs a production line: plan → independent review → gated commits.*
 *40+ projects since March 2026 · 5 still running in production.*
 
-**[📄 完整作品集 · Full Portfolio](https://claude.ai/code/artifact/3232c539-148d-4966-9ff7-fde8668b405b)**
+**[📄 完整作品集 · Full Portfolio](https://labyrinth-xx.github.io)**
 
 </div>
 
@@ -25,11 +25,11 @@
 | [**diary-dashboard**](https://github.com/Labyrinth-xx/diary-dashboard) | Obsidian 日记看板插件：打卡连击、热力图、心情曲线、足迹地图，130 项自动化测试 | 🚀 已开源 · MIT |
 | [**月薪喵桌宠**](https://github.com/Labyrinth-xx/yuexinmiao-desktop-pet) | 屏幕角落养一只猫：按时段换心情，久坐喝水提醒，Electron 跨平台 | 🚀 已发布 |
 
-> 其余 30+ 个项目涉及个人数据、真实业务或为实验性质，保持私有。完整清单见[作品集](https://claude.ai/code/artifact/3232c539-148d-4966-9ff7-fde8668b405b)。
+> 其余 30+ 个项目涉及个人数据、真实业务或为实验性质，保持私有。完整清单见[作品集](https://labyrinth-xx.github.io)。
 
 ## 生产环境里还跑着什么
 
-有 5 个服务此刻正在云服务器上 24 小时运行——内容情报流水线（抓取 → 评分 → 人审 → 发布 → 告警全链路）、微信里的 AI 助理、美股异动哨兵等。它们处理真实数据、带告警和回滚，属于「生产在用」而非 demo。细节见[作品集](https://claude.ai/code/artifact/3232c539-148d-4966-9ff7-fde8668b405b)。
+有 5 个服务此刻正在云服务器上 24 小时运行——内容情报流水线（抓取 → 评分 → 人审 → 发布 → 告警全链路）、微信里的 AI 助理、美股异动哨兵等。它们处理真实数据、带告警和回滚，属于「生产在用」而非 demo。细节见[作品集](https://labyrinth-xx.github.io)。
 
 ## 最特别的一件作品：给 AI 搭的一条生产线
 
