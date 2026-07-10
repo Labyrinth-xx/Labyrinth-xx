@@ -5,7 +5,7 @@
 **把 AI 当成一支需要制度约束的团队来管——这里的每个项目，都出自同一条「人管 AI 的生产线」。**
 
 *I build with AI the way a factory runs a production line: plan → independent review → gated commits.*
-*40+ projects in 4 months · 5 still running in production.*
+*40+ projects since March 2026 · 5 still running in production.*
 
 **[📄 完整作品集 · Full Portfolio](https://claude.ai/code/artifact/3232c539-148d-4966-9ff7-fde8668b405b)**
 
@@ -40,4 +40,4 @@
 - **提交关** — 构建、测试、代码检查、密钥扫描全绿才准提交，红了必须修，没有绕过这个选项
 - **自学习** — 踩过的坑自动沉淀为可复用的技能，下次直接调用
 
-企业客户最难的从来不是让 AI 能干活，是让 AI **可靠、可审计、可控成本**地干活。这套流程，我先自用了四个月。
+企业客户最难的从来不是让 AI 能干活，是让 AI **可靠、可审计、可控成本**地干活。这套流程，从 2026 年 3 月起我一直在自用。
